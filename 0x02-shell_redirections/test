@@ -1,0 +1,30 @@
+total 60
+drwxrwxr-x 2 amr amr  4096 Aug 10 03:01 .
+drwxrwxr-x 5 amr amr  4096 Aug 10 01:25 ..
+-rwxrw-r-- 1 amr amr    32 Aug 10 01:30 0-hello_world
+-rw------- 1 amr amr 12288 Aug 10 02:30 .0x02-shell_redirections.swp
+-rwxrw-r-- 1 amr amr    28 Aug 10 01:36 1-confused_smiley
+-rwxrw-r-- 1 amr amr    28 Aug 10 02:31 2-hellofile
+-rwxrw-r-- 1 amr amr    39 Aug 10 02:40 3-twofiles
+-rwxrw-r-- 1 amr amr    29 Aug 10 02:44 4-lastlines
+-rwxrw-r-- 1 amr amr    29 Aug 10 02:47 5-firstlines
+-rwxrw-r-- 1 amr amr    36 Aug 10 02:55 6-third_line
+-rwxrw-r-- 1 amr amr    90 Aug 10 02:59 7-file
+-rwxrw-r-- 1 amr amr    64 Aug 10 01:30 git
+-rwxrw-r-- 1 amr amr     7 Aug 10 01:26 README.md
+-rw-rw-r-- 1 amr amr     0 Aug 10 03:02 test
+total 64
+drwxrwxr-x 2 amr amr  4096 Aug 10 03:01 .
+drwxrwxr-x 5 amr amr  4096 Aug 10 01:25 ..
+-rwxrw-r-- 1 amr amr    32 Aug 10 01:30 0-hello_world
+-rw------- 1 amr amr 12288 Aug 10 02:30 .0x02-shell_redirections.swp
+-rwxrw-r-- 1 amr amr    28 Aug 10 01:36 1-confused_smiley
+-rwxrw-r-- 1 amr amr    28 Aug 10 02:31 2-hellofile
+-rwxrw-r-- 1 amr amr    39 Aug 10 02:40 3-twofiles
+-rwxrw-r-- 1 amr amr    29 Aug 10 02:44 4-lastlines
+-rwxrw-r-- 1 amr amr    29 Aug 10 02:47 5-firstlines
+-rwxrw-r-- 1 amr amr    36 Aug 10 02:55 6-third_line
+-rwxrw-r-- 1 amr amr    90 Aug 10 02:59 7-file
+-rwxrw-r-- 1 amr amr    64 Aug 10 01:30 git
+-rwxrw-r-- 1 amr amr     7 Aug 10 01:26 README.md
+-rw-rw-r-- 1 amr amr   722 Aug 10 03:02 test
